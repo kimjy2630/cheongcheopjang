@@ -20,34 +20,18 @@ export const Location = () => {
           <div className="transportation-icon-wrapper">
             <BusIcon className="transportation-icon" />
           </div>
-          <div className="heading">대중교통</div>
+          <div className="heading">기차</div>
           <div />
           <div className="content">
-            * 지하철 이용시
-            <br />
-            지하철 2호선 <b>낙성대역 4번출구</b> 나와서
-            <br />
-            → 첫번째 골목 끼고 좌회전
-            <br />→ 마을버스 <b>관악 02번</b> 승차
-            <br />→ <b>서울대후문·연구공원 정류장</b> 하차
-            <br />
-            → 길 건너 간판 참고해 도보로 100m 이동
-            <br />
-            검은색 피라미드 유리 건물입니다.
+            대전역 (KTX)
           </div>
           <div />
+          <div className="heading">버스</div>
+          <div />
           <div className="content">
-            * 버스 이용 시
-            <br />
-            - 간선(파랑): 461, 641
-            <br />
-            - 지선(초록): 5413, 5524, 5528
-            <br />
-            반드시 <b>낙성대입구</b> 하차
-            <br />→ 마을버스 <b>관악 02번</b> 이용
-            <br />
-            이하 위와 동일합니다.
+            유성복합 / 대전청사 / 대전복합 터미널
           </div>
+          <div />
         </div>
         <div className="location-info">
           <div className="transportation-icon-wrapper">

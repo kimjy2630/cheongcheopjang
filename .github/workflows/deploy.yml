@@ -21,7 +21,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v5
-        uses: actions/checkout@v4
 
       - name: Setup Environment Variables
         run: |
@@ -53,7 +52,6 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: "./build"
-          path: "./dist"
 
       - name: Deploy to GitHub Pages
         id: deployment

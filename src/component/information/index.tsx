@@ -12,9 +12,9 @@ export const Information1 = () => {
       <div className="info-card">
         <div className="label">식사 안내</div>
         <div className="content">
-          식사시간: 12시 30분 ~ 14시 30분
+          예식 후 노천극장에서 진행합니다.
           <br />
-          장소: 지하 1층 연회장
+          우천 시 대강당에서 진행합니다.
         </div>
       </div>
     </>

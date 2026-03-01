@@ -27,7 +27,6 @@ export const Invitation = () => {
 
       <div className="content">20대를 함께한 서로를 가장 닮은 두 사람이</div>
       <div className="content">믿음의 가정 안에서 하나로 나아가려 합니다.</div>
-      <div className="break" />
       <div className="content">저희 인생의 전환점에 함께하시어</div>
       <div className="content">기도와 함께 축복해주시고</div>
       <div className="content">자리를 빛내주시면 감사하겠습니다.</div>

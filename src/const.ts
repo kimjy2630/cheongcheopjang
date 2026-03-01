@@ -14,7 +14,7 @@ export const WEDDING_DATE_FORMAT = `YYYY년 MMMM D일 dddd A h시${WEDDING_DATE.
 
 // 예식 당월 휴무일. 켈린더에 표시하기 위함.
 // 예: 예식일 8월 -> 8월 15일 광복절
-export const HOLIDAYS = [15]
+export const HOLIDAYS = []
 
 export const LOCATION = "KAIST 노천극장"
 export const LOCATION_ADDRESS = "대전 유성구 대학로 291, 카이스트 본원 노천극장"
